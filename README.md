@@ -9,3 +9,7 @@ Request Types:
   * Pool Statistics
   * Global stats for Address
   * Historical hashrate for an address
+
+Maybe:
+ * Average time between blocks / blocks per day
+ 
