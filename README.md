@@ -12,4 +12,4 @@ Request Types:
 
 Maybe:
  * Average time between blocks / blocks per day
- 
+ * USD Price
